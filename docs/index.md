@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Slow Centuries Study Guides
+# Study Guides
 
 <div class="timeline-strip"></div>
 

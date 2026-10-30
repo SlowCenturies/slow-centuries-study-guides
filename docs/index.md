@@ -20,4 +20,4 @@ Free, classroom-ready guides for the **Slow Centuries** YouTube series. Each epi
 
 All guide text is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Print it, adapt it and share it with your class. Please credit "Slow Centuries."
 
-Spotted an error? [Open an issue on GitHub](https://github.com/GITHUB_USER/slow-centuries-study-guides/issues). Corrections are logged and credited.
+Spotted an error? [Open an issue on GitHub](https://github.com/slowcenturies/slow-centuries-study-guides/issues). Corrections are logged and credited.

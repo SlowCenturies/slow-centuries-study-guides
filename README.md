@@ -2,7 +2,7 @@
 
 Free, classroom-ready study guides for the [Slow Centuries](VIDEO_CHANNEL_URL) YouTube series. Each guide has a summary, chapter list, timeline, key terms, a hands-on activity, discussion questions and links to primary sources in museums, libraries and archives.
 
-**Read the guides:** https://GITHUB_USER.github.io/slow-centuries-study-guides/
+**Read the guides:** https://slowcenturies.github.io/slow-centuries-study-guides/
 
 | Episode | Guide | PDF |
 |---|---|---|
@@ -29,7 +29,7 @@ Open an [issue](../../issues) with the guide, the line and your source. See [CON
 ## One-time setup
 
 1. Create a public repo named `slow-centuries-study-guides` on GitHub and push this folder to it.
-2. Fill in the links (replaces `GITHUB_USER` and each episode's `VIDEO_URL`, then rebuilds the PDFs with QR codes):
+2. Fill in the links (replaces `slowcenturies` and each episode's `VIDEO_URL`, then rebuilds the PDFs with QR codes):
    `python scripts/set_links.py --user <your-github-name> --algorithms <youtube-link> --money <youtube-link> --encryption <youtube-link>`
    You can run it again as each video goes live.
 3. In the repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.

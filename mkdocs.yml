@@ -1,7 +1,7 @@
 site_name: Slow Centuries Study Guides
 site_description: Free, classroom-ready study guides for the Slow Centuries YouTube series, with primary sources from museums and archives.
-site_url: https://GITHUB_USER.github.io/slow-centuries-study-guides/
-repo_url: https://github.com/GITHUB_USER/slow-centuries-study-guides
+site_url: https://slowcenturies.github.io/slow-centuries-study-guides/
+repo_url: https://github.com/slowcenturies/slow-centuries-study-guides
 repo_name: slow-centuries-study-guides
 edit_uri: edit/main/docs/
 copyright: Text CC BY 4.0 · Slow Centuries

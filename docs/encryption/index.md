@@ -169,4 +169,4 @@ Each name below is a link to the institution that holds the object or published 
 
 Study guide by Slow Centuries. Text is shared under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/). You may copy, adapt and share it, including in class and on school websites, as long as you credit "Slow Centuries." Linked objects and images belong to the institutions that hold them and follow their own terms.
 
-Found an error or a broken link? [Tell us on GitHub](https://github.com/GITHUB_USER/slow-centuries-study-guides/issues).
+Found an error or a broken link? [Tell us on GitHub](https://github.com/slowcenturies/slow-centuries-study-guides/issues).

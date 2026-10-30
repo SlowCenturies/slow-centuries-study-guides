@@ -1,0 +1,4 @@
+site/
+_pdfbuild/
+__pycache__/
+.DS_Store

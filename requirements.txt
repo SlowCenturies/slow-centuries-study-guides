@@ -1,0 +1,7 @@
+mkdocs<2
+mkdocs-material==9.7.7
+playwright
+markdown
+beautifulsoup4
+pyyaml
+qrcode

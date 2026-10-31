@@ -26,14 +26,14 @@ Every secret starts the same way: two people want to talk, and a third is listen
 
 | Time | Chapter | What to look for |
 |---|---|---|
-| 0:00 | Two people want to talk | The listener in the middle |
-| 0:10 | 1. Hidden in Plain Sight | Beni Hasan, a secret glaze recipe, the scytale and Caesar's shift |
-| 1:42 | 2. The Codebreaker | al-Kindi and frequency analysis |
-| 2:41 | 3. Courts and Ciphers | Alberti's disk, the indecipherable cipher, Mary Queen of Scots and the Great Cipher |
-| 4:39 | 4. Wires and War | The telegraph, Playfair, Kasiski, Room 40 and the one-time pad |
-| 6:10 | 5. Machines | Enigma, the Polish Cipher Bureau, Bletchley Park, Ottawa and the Navajo code talkers |
-| 8:12 | 6. Public Keys | Diffie and Hellman, RSA, GCHQ, PGP, AES and quantum-safe standards |
-| 10:16 | The long silence, still being kept | What hasn't changed |
+| 0:00 | A queen, a cipher and a spy | Mary's ciphered letters, then the listener in the middle |
+| 0:26 | 1. Who wrote the first secret? | Beni Hasan, a secret glaze recipe, the scytale and Caesar's shift |
+| 2:03 | 2. How do you crack a code? | al-Kindi and frequency analysis |
+| 3:06 | 3. Can a cipher be unbreakable? | Alberti's disk, the indecipherable cipher, Mary Queen of Scots and the Great Cipher |
+| 5:09 | 4. What changes with the telegraph? | The telegraph, Playfair, Kasiski, Room 40 and the one-time pad |
+| 6:45 | 5. Can a machine beat a machine? | Enigma, the Polish Cipher Bureau, Bletchley Park, Ottawa and the Navajo code talkers |
+| 8:51 | 6. How do strangers share a secret? | Diffie and Hellman, RSA, GCHQ, PGP, AES and quantum-safe standards |
+| 11:00 | The close | What hasn't changed |
 
 ## Timeline
 
@@ -140,22 +140,22 @@ The Navajo code was built from the Navajo language, which is a living language s
 
 Each name below is a link to the institution that holds the object or published the original work. Extra links follow after "Also". Links were checked on 30 October 2026. If one breaks, search the name on the institution's site.
 
-### 3. Courts and Ciphers
+### 3. Can a cipher be unbreakable?
 
 - **[Ciphers used by Mary Queen of Scots](https://www.nationalarchives.gov.uk/education/resources/elizabeth-monarchy/ciphers-used-by-mary-queen-of-scots/)**, The National Archives (UK), classroom resource.
 
-### 4. Wires and War
+### 4. What changes with the telegraph?
 
 - **[The Zimmermann Telegram](https://www.archives.gov/milestone-documents/zimmermann-telegram)**, U.S. National Archives. Also: [Decode worksheet for the Zimmermann Telegram](https://www.docsteach.org/documents/document/zimmermann-telegram-decode-worksheet)
 
-### 5. Machines
+### 5. Can a machine beat a machine?
 
 - **[A four-rotor Enigma cipher machine](https://collection.sciencemuseumgroup.org.uk/objects/co64128/four-rotor-enigma-cypher-machine-1939-45)**, Science Museum Group, UK.
 - **[The Turing-Welchman Bombe](https://www.tnmoc.org/bombe)**, The National Museum of Computing, Bletchley Park. Also: [Colossus](https://www.tnmoc.org/colossus)
 - **[The Examination Unit (1941–1945)](https://www.canada.ca/en/parks-canada/news/2021/08/the-examination-unit-19411945.html)**, Parks Canada. Also: [Communications Security Establishment: Our story](https://cse-cst.gc.ca/en/culture-and-community/history/our-story)
 - **[Navajo Code Talkers](https://www.usmcmuseum.com/distance-learning-navajo-code-talkers.html)**, National Museum of the Marine Corps, distance learning.
 
-### 6. Public Keys
+### 6. How do strangers share a secret?
 
 - **[James Ellis](https://www.gchq.gov.uk/person/james-ellis)**, GCHQ. Also: [Malcolm Williamson](https://www.gchq.gov.uk/person/malcolm-williamson)
 - **[NIST releases the first finalized post-quantum encryption standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)**, National Institute of Standards and Technology, August 2024.

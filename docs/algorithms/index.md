@@ -26,14 +26,14 @@ An algorithm is a finite list of steps that solves a problem. This episode follo
 
 | Time | Chapter | What to look for |
 |---|---|---|
-| 0:00 | Before there were machines | What makes a set of steps an algorithm |
-| 0:41 | 1. Clay and Papyrus | The square root of two in clay, and multiplying by doubling |
-| 2:17 | 2. Proof and Approximation | Euclid, Archimedes, Liu Hui and Aryabhata |
-| 4:08 | 3. The Name | al-Khwarizmi, Fibonacci and the Maya Venus table |
-| 6:00 | 4. Pattern and Thread | Chokwe *sona*, binary, the Jacquard loom and Ada Lovelace |
-| 7:43 | 5. Logic and Machines | Boole, Hollerith, Turing, ENIAC and Grace Hopper |
-| 9:38 | 6. Search and Learning | Dijkstra, Quicksort, P versus NP, the Perceptron, PageRank and AlexNet |
-| 11:17 | A line in the sand | What has and hasn't changed |
+| 0:00 | A café in Amsterdam | Dijkstra's shortest path, then what makes a set of steps an algorithm |
+| 0:59 | 1. Can clay solve a problem? | The square root of two in clay, and multiplying by doubling |
+| 2:35 | 2. How close is close enough? | Euclid, Archimedes, Liu Hui and Aryabhata |
+| 4:31 | 3. Where does the word come from? | al-Khwarizmi, Fibonacci and the Maya Venus table |
+| 6:27 | 4. Can a drawing be an algorithm? | Chokwe *sona*, binary, the Jacquard loom and Ada Lovelace |
+| 8:15 | 5. Can a machine follow logic? | Boole, Hollerith, Turing, ENIAC and Grace Hopper |
+| 10:15 | 6. Can steps learn? | Dijkstra, Quicksort, P versus NP, the Perceptron, PageRank and AlexNet |
+| 11:57 | The close | What has and hasn't changed |
 
 ## Timeline
 
@@ -103,23 +103,23 @@ Neural network
 
 Each name below is a link to the institution that holds the object or published the original work. Extra links follow after "Also". Links were checked on 30 October 2026. If one breaks, search the name on the institution's site.
 
-### 1. Clay and Papyrus
+### 1. Can clay solve a problem?
 
 - **[YBC 7289, the square-root-of-two tablet](https://isaw.nyu.edu/exhibitions/before-pythagoras/items/ybc-7289)**, Yale Babylonian Collection. Also: [catalogue record and photos (CDLI)](https://cdli.earth/artifacts/255048)
 - **[The Rhind Mathematical Papyrus](https://www.britishmuseum.org/collection/object/Y_EA10057)**, British Museum, London.
 
-### 2. Proof and Approximation
+### 2. How close is close enough?
 
 - **[A papyrus fragment of Euclid's *Elements*](https://penn.museum/collections/object/63505)** (Papyrus Oxyrhynchus 29, about 100 CE), Penn Museum, Philadelphia.
 - **[The Archimedes Palimpsest](https://archimedespalimpsest.org/)**, a medieval copy of Archimedes' works, including texts found nowhere else, recovered with special imaging.
 - **Aryabhata's *Aryabhatiya*.** An English translation by W. E. Clark (1930) is in the public domain. Search Wikisource or the Internet Archive for "The Aryabhatiya of Aryabhata."
 
-### 3. The Name
+### 3. Where does the word come from?
 
 - **[The "*Dixit Algorizmi*" manuscript](https://cudl.lib.cam.ac.uk/view/MS-II-00006-00005/1)**, the Latin al-Khwarizmi text, Cambridge University Library, MS Ii.6.5.
 - **[The Dresden Codex](https://www.loc.gov/item/2021667917/)**, including the Venus table. Full digital copy via the Library of Congress. The original is at the Saxon State and University Library, Dresden.
 
-### 4. Pattern and Thread
+### 4. Can a drawing be an algorithm?
 
 - **Chokwe *sona*.** Paulus Gerdes, *Geometry from Africa: Mathematical and Educational Explorations* (Mathematical Association of America, 1999). Please read the note on cultural respect below before teaching this section.
 - **[Leibniz, "Explication de l'Arithmétique Binaire" (1703)](https://journals.openedition.org/bibnum/553)**, annotated edition with facsimile, BibNum (in French).
@@ -127,7 +127,7 @@ Each name below is a link to the institution that holds the object or published 
 - **[Babbage's Analytical Engine, trial model](https://collection.sciencemuseumgroup.org.uk/objects/co62245)**, Science Museum Group.
 - **[Ada Lovelace's papers online](https://claymath.org/news/ada-lovelace-online)**, Clay Mathematics Institute. Also: [Bodleian Libraries blog on Lovelace's papers](https://blogs.bodleian.ox.ac.uk/adalovelace/)
 
-### 5. Logic and Machines
+### 5. Can a machine follow logic?
 
 - **[George Boole, *An Investigation of the Laws of Thought* (1854)](https://www.gutenberg.org/ebooks/15114)**, free full text, Project Gutenberg.
 - **[Hollerith's tabulating machine](https://www.si.edu/object/nmah_694410)**, Smithsonian National Museum of American History.
@@ -136,7 +136,7 @@ Each name below is a link to the institution that holds the object or published 
 - **[An ENIAC accumulator panel](https://www.si.edu/object/nmah_334742)**, Smithsonian National Museum of American History.
 - **[Grace Hopper completes the A-0 compiler](https://www.computinghistory.org.uk/det/5487/Grace-Hopper-completes-the-A-0-Compiler/)**, Centre for Computing History.
 
-### 6. Search and Learning
+### 6. Can steps learn?
 
 - **[Dijkstra (1959), "A note on two problems in connexion with graphs"](https://link.springer.com/doi/10.1007/BF01386390)**, *Numerische Mathematik*.
 - **[Stephen Cook and "The Complexity of Theorem-Proving Procedures" (1971)](https://www.heidelberg-laureate-forum.org/laureate/stephen-a-cook/)**, Heidelberg Laureate Forum profile.

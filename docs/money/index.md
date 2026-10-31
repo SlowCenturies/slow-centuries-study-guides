@@ -26,14 +26,14 @@ Money began as a record of who owes what. In Mesopotamia, scribes pressed debts 
 
 | Time | Chapter | What to look for |
 |---|---|---|
-| 0:00 | Before there was money | A debt pressed into clay |
-| 0:29 | 1. Debts Before Coins | Shekels, storehouses, Hammurabi's interest limits and cowrie shells |
-| 1:59 | 2. Metal | Lydian electrum, Croesus, the Athenian owl, the Qin coin and Rome's mint |
-| 3:52 | 3. Paper and Promises | Flying money, the jiaozi, inflation, bills of exchange and double entry |
-| 5:40 | 4. Banks and States | Amsterdam, Stockholm, the Bank of England, John Law and the gold standard |
-| 7:21 | 5. The Century of Trust | Bretton Woods, 15 August 1971, cards, cash machines and SWIFT |
-| 8:52 | 6. Money Becomes Data | M-Pesa, Bitcoin and digital currencies |
-| 10:06 | A debt, still being written | What money has always been |
+| 0:00 | The day the gold stopped | 15 August 1971, then back to a debt pressed into clay |
+| 0:52 | 1. What came before coins? | Shekels, storehouses, Hammurabi's interest limits and cowrie shells |
+| 2:22 | 2. Why stamp a lump of metal? | Lydian electrum, Croesus, the Athenian owl, the Qin coin and Rome's mint |
+| 4:20 | 3. Who would trust paper? | Flying money, the jiaozi, inflation, bills of exchange and double entry |
+| 6:11 | 4. What if the bank fails? | Amsterdam, Stockholm, the Bank of England, John Law and the gold standard |
+| 7:57 | 5. What backs money now? | Bretton Woods, 15 August 1971, cards, cash machines and SWIFT |
+| 9:32 | 6. Is money just data? | M-Pesa, Bitcoin and digital currencies |
+| 10:50 | The close | What money has always been |
 
 ## Timeline
 
@@ -140,31 +140,31 @@ Ledger
 
 Each name below is a link to the institution that holds the object or published the original work. Extra links follow after "Also". Links were checked on 30 October 2026. If one breaks, search the name on the institution's site.
 
-### 1. Debts Before Coins
+### 1. What came before coins?
 
 - **[A stele fragment inscribed with Hammurabi's Code](https://collections.louvre.fr/en/ark:/53355/cl010188648)**, Louvre, Paris. The full law stele is also in the Louvre.
 
-### 2. Metal
+### 2. Why stamp a lump of metal?
 
 - **[A Lydian electrum coin with a lion's head](https://www.britishmuseum.org/collection/object/C_RPK-p146C-1-Sam)**, 6th century BCE, British Museum, London.
 - **[A silver tetradrachm with Athena and the owl](https://www.metmuseum.org/ko/art/collection/search/254721)**, 450–420 BCE, The Metropolitan Museum of Art, New York.
 
-### 3. Paper and Promises
+### 3. Who would trust paper?
 
 - **[One of the world's first banknotes](https://idp.bl.uk/blog/one-of-the-worlds-first-banknotes/)**, International Dunhuang Programme, British Library.
 - **[Printing and the state: the first paper money](https://www.cabinet.ox.ac.uk/node/6959)**, Heberden Coin Room, Ashmolean Museum, Oxford.
 
-### 4. Banks and States
+### 4. What if the bank fails?
 
 - **[1661: First banknotes in Europe](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1600-1699/first-banknotes-in-europe/)**, Sveriges Riksbank.
 - **[The Bank of England's founding documents](https://www.bankofengland.co.uk/museum/online-collections/archive-gallery/founding-documents)**, Bank of England Museum. Also: [Why was the Bank of England founded?](https://www.bankofengland.co.uk/museum/online-collections/blog/why-was-the-bank-of-england-founded) · [Our earliest Bank of England note](https://www.bankofengland.co.uk/museum/online-collections/blog/our-earliest-bank-of-england-note)
 
-### 5. The Century of Trust
+### 5. What backs money now?
 
 - **[Creation of the Bretton Woods system](https://www.federalreservehistory.org/essays/bretton-woods-created)**, Federal Reserve History.
 - **[Nixon ends convertibility of U.S. dollars to gold](https://www.federalreservehistory.org/essays/gold-convertibility-ends)**, Federal Reserve History.
 
-### 6. Money Becomes Data
+### 6. Is money just data?
 
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)**, the 2008 white paper signed "Satoshi Nakamoto."
 
